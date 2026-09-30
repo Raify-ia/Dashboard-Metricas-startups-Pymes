@@ -1,2 +1,2 @@
-# Dashboard De Metricas Para Startups Pymes
+# Dashboard De Metricas Para Startups y Pymes
 Proyecto Python en curso
